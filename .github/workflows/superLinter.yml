@@ -1,4 +1,4 @@
-name: Validate Format
+name: Validate Format and Path
 
 on:
   push:
