@@ -2,10 +2,10 @@ name: Validate Format and Path
 
 on:
   push:
-    branches: [main, master]
+    branches: [main, master, Branch-1]
 
   pull_request:
-    branches: [main, master]
+    branches: [main, master, Branch-1]
 
 jobs:
   built:
