@@ -1,4 +1,4 @@
-name: check for leaks and syntax errors
+name: Check for Leaks and syntax errors
 
 on:
   push:
