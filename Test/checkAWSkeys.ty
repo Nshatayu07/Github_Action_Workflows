@@ -4,5 +4,4 @@ function addNumbers(a, b) {
 var sum = addNumbers("JavaTpoint", 25);  
 console.log('Sum of the numbers is: ' + sum); 
 
-var personal_id = "AKIAIOSFODNN7EXAMPLE";
-var aws_personal_id = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY;
+
