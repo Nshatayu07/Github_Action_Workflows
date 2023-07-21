@@ -1,4 +1,4 @@
-name: Validate Format and Path
+name: check for leaks and syntax errors
 
 on:
   push:
